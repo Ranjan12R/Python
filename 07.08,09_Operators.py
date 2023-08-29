@@ -1,0 +1,32 @@
+# print(15+6)
+# print(15-6)
+# print(15*6)
+# print(15/6)
+# print(16//6)
+# print(16%6)
+# print(2**6)
+
+
+a= int(input("Enter the first number \n")) 
+b = int(input("Enter the second number \n")) 
+print(a,b)
+# print("The Value of the Operation is  ", a+b  ,a-b , a*b )
+
+# print("The Answers of the operations is:")
+# print(a+b)
+# print("The Answers of the operations is:")
+# print(a-b)
+# print("The Answers of the operations is:")
+# print(a*b)
+# print("The Answers of the operations is:")
+# print(a/b)
+# print("The Answers of the operations is:")
+# print(a**b)
+# print("The Answers of the operations is:")
+# print(a%b)
+# print("The Answers of the operations is:")
+# print(a//b)
+
+
+# print("The Answers of the operations is:")
+# print(a+b , a-b , a*b )
